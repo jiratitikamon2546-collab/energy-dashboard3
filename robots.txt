@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiratitikamon2546-collab.github.io/energy-dashboard3/sitemap.xml
